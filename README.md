@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @d0npan
 - 👀 I’m interested in  Vue.js, Spring.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning singly.
+- 💞️ I’m looking to collaborate on new projects.
 
-- 📫 How to reach me ...
+- 📫 
 
 <!---
 d0npan/d0npan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
