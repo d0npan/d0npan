@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d0npan
-- 👀 I’m interested in  Vue.js, Spring.
+- 👀 I’m interested in  Vue.js, Spring, QA.
 - 🌱 I’m currently learning singly.
 - 💞️ I’m looking to collaborate on new projects.
 
